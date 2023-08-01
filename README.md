@@ -1,20 +1,10 @@
 # catriver
 Founder & CEO @MybuttonCorporation
 
-### 📦 programming languages I use:
-  - `C`
-  - `C#`
-  - `C++`
-  - `Java`
-  - `Javascript (node.js)`
-  - `HTML`
-  - `Golang`
-  - `ASMx86`
-  - `Ruby`
-  - `Rust`
  
 I'm Nehir. I make C and NodeJS software, and work to provide licensing to projects as a corporate entity.
  
+### 📦 I'm mostly inactive until I make a new repo, after which I will be active for the next 2 months improving it non-stop. 
 
 ## Links
 [`[mybutton]`](https://www.mybutton.org)
