@@ -1,4 +1,4 @@
-# FarewellNehir
+# catriver
 Founder & CEO @MybuttonCorporation
 
 ### 📦 programming languages I use:
@@ -13,8 +13,8 @@ Founder & CEO @MybuttonCorporation
   - `Ruby`
   - `Rust`
  
+I'm Nehir. I make C and NodeJS software, and work to provide licensing to projects as a corporate entity.
  
-I'm Nehir. 
 
 ## Links
 [`[mybutton]`](https://www.mybutton.org)
