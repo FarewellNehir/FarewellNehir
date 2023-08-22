@@ -1,11 +1,6 @@
 # catriver
-Founder & CEO @MybuttonCorporation
+chief [@MybuttonCorporation](https://github.com/MybuttonCorporation)
 
- 
-I'm Nehir. A gnu developer and chief at [@MybuttonCorporation](github.com/MybuttonCorporation) where me and my team works to provide licensing to projects as a corporate entity.
- 
-### 📦 I'm mostly inactive until I make a new repo, after which I will be active for the next 2 months improving it non-stop. 
-
+Terminalphile and GNU developer.  
 ## Links
-[`[mybutton]`](https://www.mybutton.org) [`[mybutton/license]`](https://www.mybutton.org/legal/policy) [`[mybutton/npm]`](https://www.npmjs.com/~cyberdevs)
-
+[`[mybutton.org]`](https://www.mybutton.org) [`[mybutton.dev]`](https://mybutton.dev) [`[mybutton/npm]`](https://www.npmjs.com/~cyberdevs)  [`[nehir.dev]`](https://nehir.dev)
