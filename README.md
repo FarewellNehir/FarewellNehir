@@ -1,4 +1,5 @@
 # catriver
+Welcome to my profile! I'm a back-end developer specializing in C/C++ & NodeJS.
 chief [@MybuttonCorporation](https://github.com/MybuttonCorporation)
 
 Terminalphile and GNU developer.  
