@@ -1,5 +1,11 @@
 > # I'm Nehir.
-[`[mybutton.org]`](https://www.mybutton.org) [`[mybutton.dev]`](https://mybutton.dev) [`[mybutton/npm]`](https://www.npmjs.com/~cyberdevs)  [`[nehir.dev]`](https://nehir.dev) [`[schizopolitique.com]`](https://schizopolitique.com)
+<div align="center">
+  <code><a href="https://www.mybutton.org">[mybutton.org]</a></code>
+  <code><a href="https://mybutton.dev">[mybutton.dev]</a></code>
+  <code><a href="https://www.npmjs.com/~cyberdevs">[mybutton/npm]</a></code>
+  <code><a href="https://nehir.dev">[nehir.dev]</a></code>
+  <code><a href="https://schizopolitique.com">[schizopolitique.com]</a></code>
+</div><br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catriverr&layout=compact">
