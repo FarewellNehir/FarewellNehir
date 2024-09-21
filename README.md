@@ -6,6 +6,9 @@
   <code><a href="https://nehir.dev">[nehir.dev]</a></code>
   <code><a href="https://schizopolitique.com">[schizopolitique.com]</a></code><hr>
   <img src="https://komarev.com/ghpvc/?username=catriverr&color=red&label=visitor%20count##">
+  <img src="https://fs.mybutton.dev/content/total_commits.svg">
+  <img src="https://fs.mybutton.dev/content/most_used_language.svg">
+  <img src="https://allahcorp.com/status">
 </div><br>
 
 <p align="center">
