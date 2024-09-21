@@ -15,7 +15,7 @@
 > I have been programming with C & C++ for the past 7 years, and with NodeJS for 4 years.
 > During this time I have built my own custom Stack & Heap memory allocation libraries,
 > threading systems and worked on various embedded programs. I have been working on my own
-> terminal based - now also graphical - game engine named `gmeng`. check it out here - [`[catriverr/gmeng-sdk]`](https://github.com/catriverr/gmeng-sdk) [`[catriverr/liblmf]`](https://github.com/catriverr/liblmf)
+> graphical & terminal game engine named `gmeng`. check it out here - [`[catriverr/gmeng-sdk]`](https://github.com/catriverr/gmeng-sdk) [`[catriverr/liblmf]`](https://github.com/catriverr/liblmf)
 
 ## Tech Stack
 > anything but html/css - I have experience with both SQL and NoSQL databases.
