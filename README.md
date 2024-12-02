@@ -9,7 +9,6 @@
   <img src="https://fs.mybutton.dev/content/total_commits.svg">
   <img src="https://fs.mybutton.dev/content/lines_of_code.svg">
   <img src="https://fs.mybutton.dev/content/most_used_language.svg">
-  <img src="https://allahcorp.com/status">
 </div>
 
 ## Experience
